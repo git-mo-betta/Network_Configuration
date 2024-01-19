@@ -1,13 +1,18 @@
 
-<h1>OVERVIEW</h1>
 
-![Bank_Model](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/784e6669-c5ba-4112-8573-6f16824d3464)
-<h1>Zoom in</h1>
 
-![Dual_Campzoom](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/d7d29127-2ba0-4204-bebc-1b9cea96a0d1)
-<h1>Cloud server</h1>
 
-![Dual_CampCloudsvr](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/02c0b9cd-7415-43e6-b8df-bcbd439c2628)
-<h1>2nd Campus</h1>
 
-![Dual_Camp2ndcamp](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/d8ba9709-913a-4c56-bf84-88d53112beda)
+<h1>OVERVIEW<h1/>
+
+![Bank_overview](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/00180b24-6791-4a55-b46f-7aeaaac8e0e5)
+
+
+![Bank_Model](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/094a60a8-50c3-4d01-84d3-d96d1b2095e9)
+
+![Bank_closetop](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/f6cb8c2b-db4f-4eca-b93f-47025a790625)
+
+![bank_closebottom](https://github.com/git-mo-betta/git-mo-betta/assets/119739482/f59d09e0-1684-4dd6-afe5-0eed4b854346)
+
+
+
